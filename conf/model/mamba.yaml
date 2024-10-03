@@ -1,0 +1,6 @@
+name: basic_mamba
+model_type: mamba
+hidden_size: 512
+layers: 16
+state_dim: 32
+checkpoint: null

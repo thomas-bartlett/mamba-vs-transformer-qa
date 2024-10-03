@@ -1,0 +1,6 @@
+name: gpt-neox_testing
+model_type: gpt-neox
+hidden_size: 32
+layers: 1
+heads: 1
+checkpoint: null

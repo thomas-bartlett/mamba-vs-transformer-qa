@@ -1,0 +1,2 @@
+name: squad_v2_original
+data_path: ${hydra:runtime.cwd}/data/squad_v2_original

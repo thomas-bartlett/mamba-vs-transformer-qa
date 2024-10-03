@@ -1,0 +1,6 @@
+name: small-gpt-neox
+model_type: gpt-neox
+hidden_size: 64
+layers: 2
+heads: 2
+checkpoint: null

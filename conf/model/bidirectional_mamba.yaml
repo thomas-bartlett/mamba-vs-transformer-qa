@@ -1,0 +1,6 @@
+name: basic_bidirectional_mamba
+model_type: bidirectional_mamba
+hidden_size: 512
+layers: 8
+state_dim: 32
+checkpoint: null

@@ -1,0 +1,7 @@
+name: pythia-410m
+model_type: pythia
+hidden_size: null
+layers: null
+state_dim: null
+checkpoint: EleutherAI/pythia-410m
+hf_checkpoint: EleutherAI/pythia-410m

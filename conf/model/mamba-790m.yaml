@@ -1,0 +1,7 @@
+name: mamba-790m
+model_type: mamba
+hidden_size: null
+layers: null
+state_dim: null
+checkpoint: state-spaces/mamba-790m
+hf_checkpoint: state-spaces/mamba-790m

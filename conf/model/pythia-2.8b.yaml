@@ -1,0 +1,7 @@
+name: pythia-2.8b
+model_type: pythia
+hidden_size: null
+layers: null
+state_dim: null
+checkpoint: EleutherAI/pythia-2.8b
+hf_checkpoint: EleutherAI/pythia-2.8b

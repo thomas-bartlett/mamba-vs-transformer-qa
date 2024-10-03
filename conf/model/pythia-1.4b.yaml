@@ -1,0 +1,7 @@
+name: pythia-1.4b
+model_type: pythia
+hidden_size: null
+layers: null
+state_dim: null
+checkpoint: EleutherAI/pythia-1.4b
+hf_checkpoint: EleutherAI/pythia-1.4b

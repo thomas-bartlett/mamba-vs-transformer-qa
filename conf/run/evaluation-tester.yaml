@@ -1,0 +1,3 @@
+max_test_samples: 10
+eval_dataset: val_eval
+batch_size: 32

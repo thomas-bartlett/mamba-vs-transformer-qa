@@ -1,0 +1,6 @@
+name: basic_neox
+model_type: gpt-neox
+hidden_size: 256
+layers: 32
+heads: 16
+checkpoint: null

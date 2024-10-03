@@ -1,0 +1,7 @@
+name: pythia-70m
+model_type: pythia
+hidden_size: null
+layers: null
+state_dim: null
+checkpoint: EleutherAI/pythia-70m
+hf_checkpoint: EleutherAI/pythia-70m

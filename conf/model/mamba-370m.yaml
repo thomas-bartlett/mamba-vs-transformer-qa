@@ -1,0 +1,7 @@
+name: mamba-370m
+model_type: mamba
+hidden_size: null
+layers: null
+state_dim: null
+checkpoint: state-spaces/mamba-370m
+hf_checkpoint: state-spaces/mamba-370m

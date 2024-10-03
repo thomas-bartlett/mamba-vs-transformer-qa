@@ -1,0 +1,21 @@
+defaults:
+  - _self_
+  - model: gpt-neox
+  - run: basic-training
+  - dataset: squad
+  - override hydra/hydra_logging: disabled  
+  - override hydra/job_logging: disabled  
+
+task: train
+param_count: null
+load_into: both
+patience: 5
+run_eval_training: true
+loss_strategy: regular
+group: ??? 
+tags: ??? 
+
+hydra:  
+  output_subdir: null  
+  run:  
+    dir: .
